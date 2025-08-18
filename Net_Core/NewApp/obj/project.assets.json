@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI BRAVO\\Net_Core\\NewApp\\NewApp.csproj",
+      "projectUniqueName": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\NewApp\\NewApp.csproj",
       "projectName": "NewApp",
-      "projectPath": "C:\\Users\\MSI BRAVO\\Net_Core\\NewApp\\NewApp.csproj",
+      "projectPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\NewApp\\NewApp.csproj",
       "packagesPath": "C:\\Users\\MSI BRAVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI BRAVO\\Net_Core\\NewApp\\obj\\",
+      "outputPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\NewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI BRAVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
