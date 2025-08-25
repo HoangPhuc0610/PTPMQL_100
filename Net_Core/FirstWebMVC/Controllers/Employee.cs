@@ -2,18 +2,18 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MvcMovie.Controllers
 {
-    public class HelloWorldController : Controller
+    public class EmployeeController : Controller
     {
         // GET: /HelloWorld/
-        public string Index()
+        public IActionResult Index()
         {
-            return "This is my default action...";
+            return View();
         }
 
         // GET: /HelloWorld/Welcome/
         public string Welcome()
         {
-            return "This is the Welcome action method...";
+            return "This is the Welcome action method 2...";
         }
     }
 }
