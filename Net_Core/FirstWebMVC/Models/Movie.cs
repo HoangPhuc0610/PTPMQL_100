@@ -1,4 +1,4 @@
-namespace MvcMovie.Models 
+namespace FirstWebMVC.Models 
 {
     public class Movie
     {

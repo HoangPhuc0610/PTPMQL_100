@@ -1,5 +1,5 @@
 
-namespace DaiLy.Models 
+namespace FirstWebMVC.Models 
 {
     public class DaiLy
     {

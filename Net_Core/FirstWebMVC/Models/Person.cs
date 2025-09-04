@@ -1,19 +1,16 @@
-namespace Person.Models 
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace FirstWebMVC.Models
 {
-    public class Person
+    [Table("Persons")]
+    public class Persons
     {
+        [Key]
         public string PersonId { get; set; }
 
         public string FullName { get; set; }
 
-
-
-
         public string Address { get; set; }
-
-
-
-
-
     }
 }

@@ -1,4 +1,4 @@
-namespace Employee.Models 
+namespace FirstWebMVC.Models 
 {
     // Lớp cha Person
     public class Person

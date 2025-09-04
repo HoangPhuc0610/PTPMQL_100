@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj": {}
+    "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj": {
+    "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj",
         "projectName": "FirstWebMVC",
-        "projectPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj",
         "packagesPath": "C:\\Users\\MSI BRAVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\obj\\",
+        "outputPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI BRAVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,32 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
