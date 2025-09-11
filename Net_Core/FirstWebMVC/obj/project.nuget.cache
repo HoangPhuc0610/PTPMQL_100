@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CgLqSG2N08Q=",
+  "dgSpecHash": "yo+7o28TuSI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj",
+  "projectFilePath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI BRAVO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MSI BRAVO\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

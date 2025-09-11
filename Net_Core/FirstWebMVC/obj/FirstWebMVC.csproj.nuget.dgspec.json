@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj": {}
+    "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj": {
+    "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj",
         "projectName": "FirstWebMVC",
-        "projectPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\FirstWebMVC.csproj",
+        "projectPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\FirstWebMVC.csproj",
         "packagesPath": "C:\\Users\\MSI BRAVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMvc\\obj\\",
+        "outputPath": "C:\\Users\\MSI BRAVO\\Net_Core_API\\Net_Core\\FirstWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI BRAVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
